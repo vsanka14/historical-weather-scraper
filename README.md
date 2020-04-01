@@ -1,5 +1,5 @@
 # monthly-weather-scraper
-Get monthly weather data for any city in the world in json format.
+Get historical monthly weather data for any city in the world in json format. This program scrapes data from https://www.wunderground.com/history.
 
 # How to use
 
