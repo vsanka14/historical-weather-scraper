@@ -9,4 +9,4 @@ Get historical monthly weather data for any city in the world in json format. Th
     1. start date in mm-yyyy format.
     2. end date in mm-yyyy format.
     3. icao code for airport. icao code for your city or your neighboring city's airport can be found at: https://www.world-airport-codes.com/.
-3. The output json file containing weather data will be saved in the same directory. 
+3. The output json file containing weather data will be saved inside the ./data directory. This folder will get created once you run the app. 
